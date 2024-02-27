@@ -1,15 +1,15 @@
 body{
-    background-color: #5b5b5c;
+    background-color: #cccccf;
     margin: 0;
     padding: 0;
     display: grid;
     text-align: center;
 }
 .quadrado{
-    background-color: #c0c0c0;
+    background-color: #302f2f;
     padding: 20px 0px;
     border-radius: 15px;
-    color:#f0f8ff;
+    color:#121213;
     max-width: 50vw;
 }
 main {
@@ -20,12 +20,18 @@ main {
 h1{
     margin-top: 200px;
     font-size: 60px;
-    color: #f0f8ff;
+    color: #1b1b1b;
 }
 h2{
     font-size: 30px;
-    color: #0d0d0e;
+    color: #ececee;
 }
+
+h3{
+    color: #c7c7c7;
+
+}
+
 main div button{
     width: 150px;
     height: 100px;
@@ -67,5 +73,3 @@ button{
 #corFrase{
     color: #dc143c;
 }
-
-
